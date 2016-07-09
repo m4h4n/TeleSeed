@@ -315,6 +315,6 @@ For graphic designs.
 
 ### Our Telegram channels:
 
-English: [@TeleSeedCH](https://telegram.me/teleseedch)
+English: [@SeedChannel](https://telegram.me/seedchannel)
 
 Persian: [@IranSeed](https://telegram.me/iranseed)
